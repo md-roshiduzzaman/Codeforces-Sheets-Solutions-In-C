@@ -13,6 +13,6 @@ int main()
   printf("%c\n", s);
   printf("%.2f\n", f);
   printf("%.1lf", d);
-
+  
   return 0;
 }
