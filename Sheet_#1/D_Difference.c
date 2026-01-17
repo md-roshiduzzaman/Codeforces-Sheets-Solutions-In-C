@@ -1,0 +1,12 @@
+#include<stdio.h>
+int main()
+{
+    long long a, b, c, d, diff;
+    scanf("%lld%lld%lld%lld", &a, &b, &c, &d);
+
+    diff = (a*b) - (c*d);
+
+    printf("Difference = %lld\n", diff);
+
+    return 0;
+}
