@@ -12,7 +12,7 @@ int main()
   printf("%lld\n", l);
   printf("%c\n", s);
   printf("%.2f\n", f);
-  printf("%.1lf", d);
+  printf("%.1f", d);
   
   return 0;
 }
