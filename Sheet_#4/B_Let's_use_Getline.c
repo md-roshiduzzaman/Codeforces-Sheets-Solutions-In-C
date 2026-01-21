@@ -11,5 +11,6 @@ int main()
         else
         printf("%c", s[i]);
     }
+    
     return 0;
 }
